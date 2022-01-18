@@ -43,7 +43,7 @@
 
 <h4 align="center">Connect With Us</h4>
 <p align="center"> 
-<a href="https://dsc.gg/bugtrons"><img alt="discord" width="3.5%"
+<a href="https://dsc.gg/bugtrons"><img alt="discord" width="3%"
 src="https://raw.githubusercontent.com/bugtrons/.github/main/Assets/bugtrons-discord.png"></a>
 &nbsp;
 <a href="https://twitter.com/devstrons"><img alt="twitter_logo" width="3%"
