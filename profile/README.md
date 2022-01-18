@@ -1,6 +1,6 @@
 <p style="text-align:center;" align="center">
   <img align="center" width="50%" src="https://raw.githubusercontent.com/bugtrons/bugtrons.co/main/src/Components/KnowAbout/Top%20Heading/1.png" width="75%" /></p>
-
+<br />
 <p align="center">
 
 <a href="https://github.com/bugtrons" alt="BUGTRONS CONTRIBUTORS">
