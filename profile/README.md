@@ -41,7 +41,7 @@
 
 ---
 
-<p align="center">Connect With Us</p>
+<h4 align="center">Connect With Us</h4>
 <p align="center"> 
 <a href="https://dsc.gg/bugtrons"><img alt="discord" width="3.5%"
 src="https://raw.githubusercontent.com/bugtrons/.github/main/Assets/bugtrons-discord.png"></a>
@@ -49,9 +49,15 @@ src="https://raw.githubusercontent.com/bugtrons/.github/main/Assets/bugtrons-dis
 <a href="https://twitter.com/devstrons"><img alt="twitter_logo" width="3%"
 src="https://raw.githubusercontent.com/bugtrons/.github/main/Assets/bugtrons-twitter.png"></a>
 &nbsp;
-<a href="https://github.com/bugtrons"><img alt="GitHub_logo" width="3%"
+<a href="https://github.com/bugtrons"><img alt="GitHub_logo" width="2.8%"
 src="https://raw.githubusercontent.com/bugtrons/.github/main/Assets/bugtrons-github.png"></a>
 &nbsp;
 <a href="https://instagram.com/devstrons"><img alt="insta_logo" width="2.8%"
 src="https://raw.githubusercontent.com/bugtrons/.github/main/Assets/bugtrons-instagram.png"></a>
+&nbsp;
+<a href="https://linkedin.com/company/devstrons"><img alt="linkedin_logo" width="2.8%"
+src="https://raw.githubusercontent.com/bugtrons/.github/main/Assets/bugtrons-linkedin.png"></a>
+&nbsp;
+<a href="https://www.youtube.com/channel/UCG7JT7yqut81fqFsVBX6oMg"><img alt="youtube_logo" width="2.8%"
+src="https://raw.githubusercontent.com/bugtrons/.github/main/Assets/bugtrons-youtube.png"></a>
 </p>
